@@ -1,0 +1,1 @@
+export * from "./tckn-sorgula/tckn-sorgula.component";
